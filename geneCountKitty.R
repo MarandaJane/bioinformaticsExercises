@@ -1,5 +1,4 @@
 #Build table of genes counts by gene name
-#MJ Donaldson
 
 #my data =
 allData<-(read.csv("mergedGeneNames.csv",header=TRUE,sep=","))
